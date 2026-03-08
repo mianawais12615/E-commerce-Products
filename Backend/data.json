@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook",
+    "price": 199,
+    "desc": "The classic Laptop",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6HXk8xUDy1Yu2Q-sBiDWrUr5dO9abdKCVw&s"
+  },
+  {
+    "id": 2,
+    "name": "mens",
+    "price": 7788,
+    "desc": "dresss",
+    "img": "https://img.drz.lazcdn.com/static/pk/p/f6dabfc0ff54c4234e373fdcde1af8ff.jpg_720x720q80.jpg"
+  }
+]
